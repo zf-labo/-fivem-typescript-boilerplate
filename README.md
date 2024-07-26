@@ -1,4 +1,4 @@
-# FiveM Typescript Boilerplate
+<h1 align="center">FiveM Typescript Boilerplate</h1>
 This is my own boilerplate for my new typescript resources
 I tried multiple one recently and I always encounters problems with them.
 They where not updated, not working or not corresponding to my usual structure of files nor was near it.
