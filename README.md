@@ -14,6 +14,13 @@ So I decided to make my own*
 - src: TS source files, compiler, etc.
 - fxmanifest: the manifest file that make the resource work.
 
+## Credits
+I took code from 2 repositories:
+* https://github.com/project-error/fivem-typescript-boilerplate
+* https://github.com/overextended/ox_core-example
+* Thank you to Project Error and OverExtended for there base code!
+* And yes this is why there is a * next to "make my own" at the start :)
+
 ## Requirements
 * Typescript knowledge
 * Node > v16
@@ -58,10 +65,3 @@ npm run build
 
 We are using ESBuild as the primary bundler, which doesn't provide the option for automatic builds through the embedded FXServer webpack builder.
 You will need to compile the resource yourself before providing to a server/customer.
-
-## Credits
-I took code from 2 repositories:
-* https://github.com/project-error/fivem-typescript-boilerplate
-* https://github.com/overextended/ox_core-example
-* Thank you to Project Error and OverExtended for there base code!
-* And yes this is why there is a * next to "make my own" at the start :)
