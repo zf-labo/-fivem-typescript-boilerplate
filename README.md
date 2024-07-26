@@ -19,7 +19,7 @@ I took code from 2 repositories:
 * https://github.com/project-error/fivem-typescript-boilerplate
 * https://github.com/overextended/ox_core-example
 * Thank you to Project Error and OverExtended for there base code!
-* And yes this is why there is a * next to "make my own" at the start :)
+* I completly redid the file structure, I'm the author of the bridge, I edited the build.js but I'm not the creator of the default code and it's important to say so.
 
 ## Requirements
 * Typescript knowledge
