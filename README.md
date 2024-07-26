@@ -63,5 +63,5 @@ You will need to compile the resource yourself before providing to a server/cust
 I took code from 2 repositories:
 * https://github.com/project-error/fivem-typescript-boilerplate
 * https://github.com/overextended/ox_core-example
-Thank you to Project Error and OverExtended for there base code!
-And yes this is why there is a * next to "make my own" at the start :)
+* Thank you to Project Error and OverExtended for there base code!
+* And yes this is why there is a * next to "make my own" at the start :)
